@@ -1,3 +1,3 @@
-const baseUrl = "http://localhost:3001";
+const baseUrl = "https://softwaredesignlab01-btcfbgdqc4bhdvbt.centralindia-01.azurewebsites.net";
 
 export default baseUrl;
